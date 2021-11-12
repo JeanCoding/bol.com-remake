@@ -5,7 +5,7 @@ Een oefening om mijn Tailwind CSS Skills te verbeteren.
 ## Hoezo heb ik dit gemaakt?
 - Kijken of ik het leuk vindt om UI's te bouwen.
 - Mijn Tailwind Skills te verbeteren.
-- Om te leren hoe je UI's kan bouwen/nabouwen.
+- Om te leren hoe je UI's kan bouwen/nabouwen met Tailwind.
 
 ## Tech
 
